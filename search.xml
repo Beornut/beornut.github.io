@@ -7,7 +7,12 @@
 <blockquote>
 <p>window.jQuery || document.write(jQueryScriptElement)</p>
 </blockquote>
-<a id="more"></a>]]></content>
+<a id="more"></a>
+<h2 id="如何保持本地和远程某文件保持不同版本？">如何保持本地和远程某文件保持不同版本？</h2>
+<blockquote>
+<p>git update-index --assume-unchanged $filename</p>
+</blockquote>
+]]></content>
       <tags>
         <tag>开发</tag>
       </tags>
