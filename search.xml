@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>代码小记</title>
-    <url>/5/</url>
-    <content><![CDATA[<h2 id="如何避免重复引用jQuery">如何避免重复引用jQuery?</h2>
-<blockquote>
-<p>window.jQuery || document.write(jQueryScriptElement)</p>
-</blockquote>
-<a id="more"></a>
-<h2 id="如何保持本地和远程某文件保持不同版本？">如何保持本地和远程某文件保持不同版本？</h2>
-<blockquote>
-<p>git update-index --assume-unchanged $filename</p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>开发</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《我的孤独是一座花园：阿多尼斯诗选》解诗</title>
     <url>/4/</url>
     <content><![CDATA[<center>
